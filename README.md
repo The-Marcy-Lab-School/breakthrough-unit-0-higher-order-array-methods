@@ -15,6 +15,8 @@
 
 ### Coding Problems
 
+## Utilize array methods where possible anv avoid using traditional for loops.
+
 **1. Question**
 
 # Breakthrough Fellowship - JavaScript Pre-Work
