@@ -15,7 +15,7 @@
 
 ### Coding Problems
 
-## Utilize array methods where possible anv avoid using traditional for loops.
+## Utilize array methods where possible and avoid using traditional for loops.
 
 **1. Question**
 
